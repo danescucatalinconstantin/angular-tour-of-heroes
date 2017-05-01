@@ -5,3 +5,4 @@ import { Component } from '@angular/core';
   template: `<h1>HelloTest {{name}}</h1>`,
 })
 export class AppComponent  { name = 'Angular'; }
+//test from home
